@@ -1,0 +1,12 @@
+animation state="DEFAULT"
+frame duration="0.16" x="56" y="0" w="34" h="52" originx="17" originy="26"
+frame duration="0.16" x="82" y="105" w="20" h="19" originx="10" originy="9"
+
+animation state="DEFAULT2"
+frame duration="0.16" x="0" y="105" w="34" h="27" originx="17" originy="13"
+frame duration="0.2" x="34" y="105" w="48" h="27" originx="24" originy="13"
+
+animation state="AURA"
+frame duration="0.1" x="0" y="0" w="56" h="53" originx="28" originy="26"
+frame duration="0.1" x="56" y="53" w="56" h="51" originx="28" originy="25"
+frame duration="0.1" x="0" y="53" w="56" h="52" originx="28" originy="26"

@@ -1,0 +1,8 @@
+animation state="DEFAULT"
+frame duration="0.1" x="34" y="60" w="14" h="16" originx="7" originy="8"
+frame duration="0.1" x="18" y="35" w="20" h="18" originx="10" originy="9"
+frame duration="0.1" x="0" y="60" w="34" h="17" originx="17" originy="8"
+frame duration="0.1" x="0" y="0" w="26" h="35" originx="13" originy="17"
+frame duration="0.1" x="26" y="0" w="20" h="27" originx="10" originy="13"
+frame duration="0.1" x="0" y="35" w="18" h="25" originx="9" originy="12"
+frame duration="0.1" x="38" y="35" w="18" h="18" originx="9" originy="9"

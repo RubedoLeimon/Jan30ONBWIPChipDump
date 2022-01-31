@@ -1,0 +1,12 @@
+animation state="DEFAULT"
+frame duration="0.1" x="74" y="86" w="31" h="31" originx="15" originy="15"
+frame duration="0.15" x="105" y="86" w="31" h="31" originx="15" originy="15"
+frame duration="0.18" x="74" y="117" w="31" h="31" originx="15" originy="15"
+frame duration="0.25" x="105" y="117" w="38" h="31" originx="19" originy="15"
+
+animation state="DEFAULT2"
+frame duration="0.1" x="0" y="86" w="37" h="80" originx="18" originy="40"
+frame duration="0.1" x="0" y="0" w="37" h="86" originx="18" originy="43"
+frame duration="0.1" x="37" y="86" w="37" h="80" originx="18" originy="40"
+frame duration="0.1" x="37" y="0" w="37" h="86" originx="18" originy="43"
+frame duration="0.1" x="74" y="0" w="37" h="86" originx="18" originy="43"

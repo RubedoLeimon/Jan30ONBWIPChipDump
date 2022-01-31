@@ -1,0 +1,6 @@
+animation state="DEFAULT"
+frame duration="0.1" x="0" y="0" w="74" h="96" originx="37" originy="48"
+frame duration="0.1" x="74" y="0" w="78" h="85" originx="39" originy="42"
+frame duration="0.1" x="0" y="96" w="81" h="84" originx="40" originy="42"
+frame duration="0.1" x="81" y="96" w="91" h="84" originx="45" originy="42"
+frame duration="0.15" x="0" y="180" w="117" h="84" originx="58" originy="42"

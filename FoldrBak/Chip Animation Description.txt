@@ -1,0 +1,1 @@
+FoldrBak shakes the entire screen and flashes a white light for a few seconds. Doesn't exactly have a sprite?
